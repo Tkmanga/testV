@@ -9,7 +9,6 @@ curl -X POST -H 'accept: application/json' -H 'content-type: application/x-www-f
 curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101' https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326
 curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101' https://api.mercadolibre.com/users/179571326/items/search
 
-
 Datos.results array a procesar 
 
 Datos.results[i].id 
