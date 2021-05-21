@@ -46,6 +46,7 @@ ID  | costo * CantidadEnvios
 
 /*Obtener para el mes 1 cuánto costaría enviar con cada carrier los envíos de
 la tabla Cantidad de envíos.*/
+
 SELECT CantidadEnvios.cantidad_de_envios AS Cantidad_MAX_Mes, 
 Carrier.name AS Nombre_Carrier
 Costos.costo AS Costo,
