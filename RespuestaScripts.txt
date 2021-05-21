@@ -1,0 +1,89 @@
+/*
+
+Carrier 
+
+Carrier ID | Name | Capacity 
+    1         A     10000
+-----------------------------
+    2         B     10000   
+-----------------------------
+    3         C      3000
+
+Cantidad de envios 
+
+Zona    | Mes   | Cantidad de envios
+Amba        1       40000
+-------------------------------------
+BsAs        1        50000
+-------------------------------------
+Resto       1         60000
+
+
+Costos
+Carrier ID |Zona    |Costo|Tiempo de entrega
+1             AMBA    10
+-------------------------------------
+1             BsAs    20 
+-------------------------------------
+1             Resto   50
+-------------------------------------
+2             Amba    15
+-------------------------------------
+2             bsas    19
+-------------------------------------
+2              resto  55
+-------------------------------------
+3               Amba   22
+*/
+
+/*
+Quiero calcular 
+Example: 
+  1 |  10    * 40000
+ID  | costo * CantidadEnvios 
+
+*/
+
+/*Obtener para el mes 1 cuánto costaría enviar con cada carrier los envíos de
+la tabla Cantidad de envíos.*/
+SELECT CantidadEnvios.cantidad_de_envios AS Cantidad_MAX_Mes, 
+Carrier.name AS Nombre_Carrier
+Costos.costo AS Costo,
+Cantidad_MAX_Mes * Costo AS TotalDeLosEnvios
+FROM Carrier 
+INNER JOIN Costos ON  Carrier.CarrierID  = Costos.CarrierID
+INNER JOIN CantidadDeEnvios ON Costos.Zona = CantidadDeEnvios.cantidad_de_envios 
+GROUP BY Nombre_Carrier
+
+/*¿Que propuesta harías para el mes 1 considerando un presupuesto de
+$3.000.000?*/
+
+/*
+Partiendo de que los Carrier tienen un maximo por mes de 23000 aunque haya presupuesto este se excede
+*/
+
+A tu entender, que se busca obtener como output del script? 
+
+import me.*; 
+
+def upsPullTrkService = ctx.getBean('upsPullTrkService')
+def s = Shipment.get(27528954729)
+def tn = s.trackingNumber
+def trackingData = upsPullTrkService.getTrkEvents([tn])
+trackingData.each { td ->
+println "------------------------------------------------"
+println "${td.sucursal} - ${td.eventDate} - ${td.description}"
+}
+"Done"
+
+Respuesta: 
+
+Importa una libreria y con la funcion getBean Shipment.get conseguimos una coleccion de datos que previo proceso (trackingNumber,getTrkEvents) en bucle imprimimos por consola en forma de tabla 
+
+#!/bin/bash
+users_id=(71665538 66146765 132961968 15096445 172753273 54152646) //coleccion de numeros 
+for users_id in ${users_id[*]} //recorrer la coleccion y por cada iteracion 
+do //hacer... 
+curl=$(curl -s "api.mercadolibre.com/users/$users_id/shipping_preferences" | jq -c'.services') //traemos las "shipping_preferences" del usuario iterado en ese momento 
+echo "$users_id: $curl" //imprimimos el ID de la iteracion y el resultado de la busqueda en la linea previa 
+done //Fin 
