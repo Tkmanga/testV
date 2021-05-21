@@ -6,12 +6,21 @@ Cliente - ID : WMWDl3fuhUwBpG3ORF3FXTd01Z2ajr7W
 curl -X POST -H 'accept: application/json' -H 'content-type: application/x-www-form-urlencoded' 'https://api.mercadolibre.com/oauth/token' -d 'grant_type=authorization_code' -d 'client_id=1850140775408492' -d 'client_secret=WMWDl3fuhUwBpG3ORF3FXTd01Z2ajr7W' -d 'code=TG-60a6b75c60d99d0008215f0a-101318101' -d 'redirect_uri=https://jtacacho.dev'
 
 {"access_token":"APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101","token_type":"bearer","expires_in":21600,"scope":"offline_access read","user_id":101318101,"refresh_token":"TG-60a6b7b007a7b10007bbe08f-101318101"}
+
 curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101' https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326
 curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101' https://api.mercadolibre.com/users/179571326/items/search
+
+curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101' https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326  /users/$USER_ID/items/search
 
 Datos.results array a procesar 
 
 Datos.results[i].id 
-Datos.results[i].id 
+Datos.results[i].title
 Datos.results[i].category_id
-Datos.results[i].id 
+
+//Necesito hacer una consulta con el ID en el momento de generar el log 
+
+curl -X GET https://api.mercadolibre.com/categories/MLA1720 //ejemplo 
+
+//posible arbol de categorias ? 
+curl https://api.mercadolibre.com/sites/MLA/categories/all <https://api.mercadolibre.com/sites/MLA/categories/all> > categoriesMLB.gz 

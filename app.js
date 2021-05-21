@@ -1,11 +1,25 @@
 let categorias = {};
 let resultado = {};
-function mostrarMeDatos() {
-  console.log(
-    fetch("datos.json")
-      .then((res) => res.json())
-      .then((res) => imprimirEnConsol(res))
-  );
+const fetch = require("node-fetch");
+const fs = require("fs");
+const archivo = "texto.txt";
+let txtAdicional = "\nAqui va mas info";
+
+function buscar() {
+  if (fs.existsSync(archivo)) {
+    fs.appendFile(archivo, txtAdicional, (err) => {
+      if (err) throw "no se pudo adjuntar mas texto";
+      console.log("Archivo creado/modificado");
+    });
+  } else {
+    buscar();
+  }
+}
+
+function init() {
+  fetch("https://api.mercadolibre.com/categories/MLA1720")
+    .then((res) => res.json())
+    .then((res) => imprimirEnConsol(res));
 }
 function imprimirEnConsol(datos) {
   let obj = JSON.parse(JSON.stringify(datos));
@@ -20,14 +34,15 @@ function imprimirEnConsol(datos) {
 }
 
 function recorrerObjeto(obj) {
+  let nombreCategoria = consultar(obj[0]["category_id"]);
+
   obj.forEach((element) => {
-    //${element["id"]} ${element["title"]} ${element["category_id"]} ${traerNombreCategoria[]}
+    console.log(
+      `${element["id"]} ${element["title"]} ${element["category_id"]}`
+    );
   });
 }
 
-function traerNombreCategoria(a) {
-  return categorias[a];
-}
+function consultar() {}
 
-function buscarCategoria(params) {}
-mostrarMeDatos();
+init();
