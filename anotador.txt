@@ -2,15 +2,22 @@ APP - ID : 1850140775408492
 Cliente - ID : WMWDl3fuhUwBpG3ORF3FXTd01Z2ajr7W 
 	code=TG-60a6b484cec85f0007146585-101318101 
 	code=TG-60a6b75c60d99d0008215f0a-101318101
+	code=TG-60a7c8146bce78000b0484ed-101318101
 
-curl -X POST -H 'accept: application/json' -H 'content-type: application/x-www-form-urlencoded' 'https://api.mercadolibre.com/oauth/token' -d 'grant_type=authorization_code' -d 'client_id=1850140775408492' -d 'client_secret=WMWDl3fuhUwBpG3ORF3FXTd01Z2ajr7W' -d 'code=TG-60a6b75c60d99d0008215f0a-101318101' -d 'redirect_uri=https://jtacacho.dev'
+Pedir TG 
+https://auth.mercadolibre.com.ar/authorization?response_type=code&client_id=1850140775408492&redirect_uri=https://jtacacho.dev
+
+curl -X POST -H 'accept: application/json' -H 'content-type: application/x-www-form-urlencoded' 'https://api.mercadolibre.com/oauth/token' -d 'grant_type=authorization_code' -d 'client_id=1850140775408492' -d 'client_secret=WMWDl3fuhUwBpG3ORF3FXTd01Z2ajr7W' -d 'code=TG-60a7c8146bce78000b0484ed-101318101' -d 'redirect_uri=https://jtacacho.dev'
+curl -X POST -H 'accept: application/json' -H 'content-type: application/x-www-form-urlencoded' 'https://api.mercadolibre.com/oauth/token' -d 'grant_type=refresh_token' -d 'client_id=1850140775408492' -d 'client_secret=WMWDl3fuhUwBpG3ORF3FXTd01Z2ajr7W' -d 'refresh_token=TG-60a7c894834e6b0007b7de0b-101318101'
 
 {"access_token":"APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101","token_type":"bearer","expires_in":21600,"scope":"offline_access read","user_id":101318101,"refresh_token":"TG-60a6b7b007a7b10007bbe08f-101318101"}
+{"access_token":"APP_USR-1850140775408492-052114-182c066fd0f38b508947b77fcaceefaa-101318101","token_type":"bearer","expires_in":21600,"scope":"offline_access read","user_id":101318101,"refresh_token":"TG-60a7c894834e6b0007b7de0b-101318101"}
+
+{"access_token":"APP_USR-1850140775408492-052114-6b8ecc3a7ad457469737e9f2d1f0c224-101318101","token_type":"bearer","expires_in":21600,"scope":"offline_access read","user_id":101318101,"refresh_token":"TG-60a7c894834e6b0007b7de0b-101318101"}
 
 curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101' https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326
 curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101' https://api.mercadolibre.com/users/179571326/items/search
-
-curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052019-c6b98e8e41b73e5d16a1487f5f095b8e-101318101' https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326  /users/$USER_ID/items/search
+curl -X GET -H 'Authorization: Bearer APP_USR-1850140775408492-052114-6b8ecc3a7ad457469737e9f2d1f0c224-101318101' https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326  /users/$USER_ID/items/search
 
 Datos.results array a procesar 
 
