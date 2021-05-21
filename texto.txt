@@ -1,8 +1,100 @@
-linea uno
-Aqui va mas info
-Aqui va mas info
-Aqui va mas info
-Aqui va mas info
-Aqui va mas info
-Aqui va mas info
-Aqui va mas info
+Id: {MLA921280437} Titulo: { Apc Easy Ups Bv Bv650i-ar 650va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA921398602} Titulo: { Apc Back-ups Bx550ci-ar 550va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919281388} Titulo: { Apc Back-ups Pro 1500 Br1500g-ar 1500va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA912269991} Titulo: { Apc Back-ups Br900g-ar 900va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA917487099} Titulo: {Monitor Dell E2420h Led 24   Negro 100v/240v} Id Categoria: {MLA14407} Nombre de la categoria: {Monitores}
+Id: {MLA915943267} Titulo: {Notebook Dell Inspiron 3501 Negra 15.6 , Intel Core I3 1005g1  4gb De Ram 1tb Hdd, Intel Uhd Graphics 60 Hz 1366x768px Linux Ubuntu} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA884736096} Titulo: {Router Cisco Rv Series Rv340 Negro 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA912270438} Titulo: { Apc Back-ups Bx1100ci-ar 1100va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA921334051} Titulo: { Apc Smart-ups Rc Src2ki-ar 2000va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA920272271} Titulo: { Apc Easy Ups Bv500i-ar 500va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA912273972} Titulo: { Apc Back-ups Br550g-ar 550va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA918321811} Titulo: {Monitor Dell E2720h Led 27   Negro 100v/240v} Id Categoria: {MLA14407} Nombre de la categoria: {Monitores}
+Id: {MLA917517155} Titulo: {Switch Cisco Sg110d-08 Serie 110} Id Categoria: {MLA1708} Nombre de la categoria: {Switches}
+Id: {MLA912269713} Titulo: { Apc Back-ups Pro 1200 Br1200g-ar 1200va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA917517053} Titulo: { Apc Back-ups Bx800ci-ar 800va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA913997022} Titulo: {Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  8gb De Ram 1tb Hdd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 Pro} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA874472550} Titulo: {Router Linksys Ea-series Ea6100 Negro 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA917080102} Titulo: {Monitor Gamer Dell Professional P2719h Led 27   Negro 100v/240v} Id Categoria: {MLA14407} Nombre de la categoria: {Monitores}
+Id: {MLA884736134} Titulo: {Router Cisco Small Business Rv260w-a Negro} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA919877335} Titulo: {Notebook Dell Inspiron 5593 Platinum Silver 15.6 , Intel Core I5 1035g1  8gb De Ram 256gb Ssd, Intel Uhd Graphics 1920x1080px Windows 10 Home} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA884735834} Titulo: {Repetidor Linksys Re6500 Negro} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA919345379} Titulo: {Router Linksys Lrt214 Negro Y Azul} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA917516307} Titulo: { Apc Smart-ups Srt Srt5kxli 5000va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA912272809} Titulo: { Apc Smart-ups Rc Src3000xli 3000va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA917515758} Titulo: { Apc Easy Ups Srv6ki 6000va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA876794922} Titulo: {Impresora Multifunción Lexmark Mb2546adwe Con Wifi Gris Y Blanca 220v} Id Categoria: {MLA1676} Nombre de la categoria: {Impresoras}
+Id: {MLA917517444} Titulo: {Switch Cisco Sg250-50p Serie 250} Id Categoria: {MLA1708} Nombre de la categoria: {Switches}
+Id: {MLA917206103} Titulo: {Switch Cisco Sg350-28p Serie 350} Id Categoria: {MLA1708} Nombre de la categoria: {Switches}
+Id: {MLA912273096} Titulo: { Apc Easy Ups Srv3000 Srv3ki-ar 3000va Entrada Y Salida De 220v/240v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919422304} Titulo: {Access Point, Router Linksys Mr8300 Negro 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA919620195} Titulo: {Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  16gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA898898561} Titulo: {Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA919421624} Titulo: {Access Point, Router Linksys Max-stream Ea7300 Negro 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA917206050} Titulo: {Switch Cisco Sg350-52 Sg Serie 350} Id Categoria: {MLA1708} Nombre de la categoria: {Switches}
+Id: {MLA863267784} Titulo: {Monitor Gamer Dell Professional P2018h Led 20   Negro 100v/240v} Id Categoria: {MLA14407} Nombre de la categoria: {Monitores}
+Id: {MLA912274211} Titulo: { Apc Smart-ups Smt3000r2i-ar 3000va Entrada Y Salida De 220v/240v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919620915} Titulo: {Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA914634860} Titulo: {Access Point Interior Cisco 100 Series Wap150 Blanco} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA604049998} Titulo: {Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA870592467} Titulo: {Router Linksys E2500 Negro} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA838039921} Titulo: {Ups Apc Bv800i-ar 800v 4t Estabilizador Pc Gamer Simil Bx800} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA614270244} Titulo: {Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA640303035} Titulo: {Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA777628422} Titulo: {Router Cisco Rv260w Dual Band Vpn Firewall Wifi N Rv260} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA723894205} Titulo: {Router Cisco Dual Wan Vpn Firewall Rv340-k9 Oferta Gtia Oficial - Factura A Y B} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA696010903} Titulo: {Ups Apc Src2ki-ar 2000va Online Tower Src2ki} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919093001} Titulo: {Notebook Dell Inspiron I7 32gb 256ssd + 1tb Fhd 15,6 Ubuntu} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA919259083} Titulo: {Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Oferta} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA795525764} Titulo: {Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919297554} Titulo: {Notebook Dell Vostro 3401 I3 16gb 1tb + 240ssd Win 10 Home} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA912270438} Titulo: { Apc Back-ups Bx1100ci-ar 1100va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA921280437} Titulo: { Apc Easy Ups Bv Bv650i-ar 650va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA921398602} Titulo: { Apc Back-ups Bx550ci-ar 550va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919281388} Titulo: { Apc Back-ups Pro 1500 Br1500g-ar 1500va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA915943267} Titulo: {Notebook Dell Inspiron 3501 Negra 15.6 , Intel Core I3 1005g1  4gb De Ram 1tb Hdd, Intel Uhd Graphics 60 Hz 1366x768px Linux Ubuntu} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA912273972} Titulo: { Apc Back-ups Br550g-ar 550va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA912269991} Titulo: { Apc Back-ups Br900g-ar 900va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA917487099} Titulo: {Monitor Dell E2420h Led 24   Negro 100v/240v} Id Categoria: {MLA14407} Nombre de la categoria: {Monitores}
+Id: {MLA921334051} Titulo: { Apc Smart-ups Rc Src2ki-ar 2000va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA884736096} Titulo: {Router Cisco Rv Series Rv340 Negro 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA874472550} Titulo: {Router Linksys Ea-series Ea6100 Negro 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA917517155} Titulo: {Switch Cisco Sg110d-08 Serie 110} Id Categoria: {MLA1708} Nombre de la categoria: {Switches}
+Id: {MLA917517053} Titulo: { Apc Back-ups Bx800ci-ar 800va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA918321811} Titulo: {Monitor Dell E2720h Led 27   Negro 100v/240v} Id Categoria: {MLA14407} Nombre de la categoria: {Monitores}
+Id: {MLA913997022} Titulo: {Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  8gb De Ram 1tb Hdd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 Pro} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA919877335} Titulo: {Notebook Dell Inspiron 5593 Platinum Silver 15.6 , Intel Core I5 1035g1  8gb De Ram 256gb Ssd, Intel Uhd Graphics 1920x1080px Windows 10 Home} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA884736134} Titulo: {Router Cisco Small Business Rv260w-a Negro} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA920272271} Titulo: { Apc Easy Ups Bv500i-ar 500va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA917080102} Titulo: {Monitor Gamer Dell Professional P2719h Led 27   Negro 100v/240v} Id Categoria: {MLA14407} Nombre de la categoria: {Monitores}
+Id: {MLA870592467} Titulo: {Router Linksys E2500 Negro} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA884735834} Titulo: {Repetidor Linksys Re6500 Negro} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA919345379} Titulo: {Router Linksys Lrt214 Negro Y Azul} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA912272809} Titulo: { Apc Smart-ups Rc Src3000xli 3000va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA917515758} Titulo: { Apc Easy Ups Srv6ki 6000va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA917516307} Titulo: { Apc Smart-ups Srt Srt5kxli 5000va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA876794922} Titulo: {Impresora Multifunción Lexmark Mb2546adwe Con Wifi Gris Y Blanca 220v} Id Categoria: {MLA1676} Nombre de la categoria: {Impresoras}
+Id: {MLA912273096} Titulo: { Apc Easy Ups Srv3000 Srv3ki-ar 3000va Entrada Y Salida De 220v/240v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919422304} Titulo: {Access Point, Router Linksys Mr8300 Negro 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA917206103} Titulo: {Switch Cisco Sg350-28p Serie 350} Id Categoria: {MLA1708} Nombre de la categoria: {Switches}
+Id: {MLA917517444} Titulo: {Switch Cisco Sg250-50p Serie 250} Id Categoria: {MLA1708} Nombre de la categoria: {Switches}
+Id: {MLA863267784} Titulo: {Monitor Gamer Dell Professional P2018h Led 20   Negro 100v/240v} Id Categoria: {MLA14407} Nombre de la categoria: {Monitores}
+Id: {MLA919620195} Titulo: {Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  16gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA898898561} Titulo: {Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA917206050} Titulo: {Switch Cisco Sg350-52 Sg Serie 350} Id Categoria: {MLA1708} Nombre de la categoria: {Switches}
+Id: {MLA912274211} Titulo: { Apc Smart-ups Smt3000r2i-ar 3000va Entrada Y Salida De 220v/240v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919421624} Titulo: {Access Point, Router Linksys Max-stream Ea7300 Negro 100v/240v} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA914634860} Titulo: {Access Point Interior Cisco 100 Series Wap150 Blanco} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA614270244} Titulo: {Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919620915} Titulo: {Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA604049998} Titulo: {Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA640303035} Titulo: {Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA838039921} Titulo: {Ups Apc Bv800i-ar 800v 4t Estabilizador Pc Gamer Simil Bx800} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA777628422} Titulo: {Router Cisco Rv260w Dual Band Vpn Firewall Wifi N Rv260} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA919259083} Titulo: {Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Oferta} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919093001} Titulo: {Notebook Dell Inspiron I7 32gb 256ssd + 1tb Fhd 15,6 Ubuntu} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA723894205} Titulo: {Router Cisco Dual Wan Vpn Firewall Rv340-k9 Oferta Gtia Oficial - Factura A Y B} Id Categoria: {MLA430901} Nombre de la categoria: {Routers}
+Id: {MLA795525764} Titulo: {Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA919297554} Titulo: {Notebook Dell Vostro 3401 I3 16gb 1tb + 240ssd Win 10 Home} Id Categoria: {MLA1652} Nombre de la categoria: {Notebooks}
+Id: {MLA696010903} Titulo: {Ups Apc Src2ki-ar 2000va Online Tower Src2ki} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
+Id: {MLA912269713} Titulo: { Apc Back-ups Pro 1200 Br1200g-ar 1200va Entrada Y Salida De 230v Negro} Id Categoria: {MLA1720} Nombre de la categoria: {UPS}
