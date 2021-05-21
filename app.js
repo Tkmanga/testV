@@ -1,3 +1,5 @@
+let categorias = {};
+let resultado = {};
 function mostrarMeDatos() {
   console.log(
     fetch("datos.json")
@@ -7,17 +9,25 @@ function mostrarMeDatos() {
 }
 function imprimirEnConsol(datos) {
   let obj = JSON.parse(JSON.stringify(datos));
-  console.log(obj);
-  for (const prop in obj) {
-    if (Object.keys(prop) === "site_id") {
-      console.log("lo tenemos");
+  resultado = obj["results"];
+  categorias = obj["available_filters"][0]["values"];
+
+  for (var key1 in obj) {
+    if (key1 == "results") {
+      recorrerObjeto(obj[key1]);
     }
   }
-
-  for (let index = 0; index < Object.keys(obj); index++) {
-    console.log(index);
-    console.log("asd");
-  }
-  console.log("probando");
 }
+
+function recorrerObjeto(obj) {
+  obj.forEach((element) => {
+    //${element["id"]} ${element["title"]} ${element["category_id"]} ${traerNombreCategoria[]}
+  });
+}
+
+function traerNombreCategoria(a) {
+  return categorias[a];
+}
+
+function buscarCategoria(params) {}
 mostrarMeDatos();
